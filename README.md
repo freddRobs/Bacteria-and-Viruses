@@ -1,0 +1,1 @@
+- Final year university project entitled "Dynamics of interacting populations of bacteria and viruses" as part of Physics with Computing BSc from Loughborough
